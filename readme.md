@@ -3,6 +3,7 @@
 -   Echarts.min.js
 -   JQuery.min.js
 -   flexible.js
+-   china.js
 
 # 1. 导入 flexible.js 库
 
